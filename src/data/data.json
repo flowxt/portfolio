@@ -1,0 +1,43 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Site web personnel",
+        "description": "Projet de site web personnel",
+        "image": "/src/assets/images/projet1.png",
+        "link": "https://flowxt.github.io/Website_Florian_Dev/",
+        "technologies": ["HTML", "CSS"],
+        "github": "https://github.com/FlowXt/Website_Florian_Dev"
+      },
+
+      {
+        "id": 2,
+        "title": "Jeu Floppy Bird",
+        "description": "Refonte du jeu Floppy Bird",
+        "image": "/src/assets/images/projet2.png",
+        "link": "https://flowxt.github.io/floppyGame/",
+        "technologies": ["HTML", "CSS", "JS"],
+        "github": "https://github.com/flowxt/floppyGame/"
+      },
+
+      {
+        "id": 3,
+        "title": "La montagne",
+        "description": "Site présentant un site front end",
+        "image": "/src/assets/images/projet3.png",
+        "link": "https://flowxt.github.io/Mountain/",
+        "technologies": ["HTML", "CSS"],
+        "github": "https://github.com/flowxt/Mountain"
+      },
+
+      {
+        "id": 4,
+        "title": "Fisheye",
+        "description": "Site présentant un site pour photographe",
+        "image": "/src/assets/images/projet4.png",
+        "link": "https://flowxt.github.io/Soutenance_FishEye/index.html",
+        "technologies": ["HTML", "CSS", "JS"],
+        "github": "https://github.com/flowxt/Soutenance_FishEye"
+      }
+    ]
+  }

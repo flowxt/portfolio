@@ -1,0 +1,14 @@
+.navigation {
+    padding: 30px;
+    
+    ul{
+display: flex;
+justify-content: flex-end;
+
+li{
+  
+    margin : 0 15px;
+    cursor: pointer;
+}
+    }
+}
