@@ -38,6 +38,53 @@
         "link": "https://flowxt.github.io/Soutenance_FishEye/index.html",
         "technologies": ["HTML", "CSS", "JS"],
         "github": "https://github.com/flowxt/Soutenance_FishEye"
+      },
+
+      {
+        "id": 5,
+        "title": "OhMyFood",
+        "description": "Site de commande de repas",
+        "image": "/src/assets/images/projet5.png",
+        "link": "https://flowxt.github.io/ohmyfood_oc/index.html",
+        "technologies": ["HTML", "CSS"],
+        "github": "https://github.com/flowxt/ohmyfood_oc"
+      },
+      {
+        "id": 6,
+        "title": "Password Generator",
+        "description": "Generateur de mot de passe",
+        "image": "/src/assets/images/projet6.png",
+        "link": "https://flowxt.github.io/PasswordGenerator/",
+        "technologies": ["HTML", "CSS", "JS"],
+        "github": "https://github.com/flowxt/PasswordGenerator"
+      },
+
+      {
+        "id": 7,
+        "title": "Prank Generator",
+        "description": "Generateur de blagues",
+        "image": "/src/assets/images/projet7.png",
+        "link": "https://flowxt.github.io/Les-blagues-de-floflo/",
+        "technologies": ["HTML", "CSS", "JS"],
+        "github": "https://github.com/flowxt/Les-blagues-de-floflo"
+      },
+      {
+        "id": 8,
+        "title": "Le resto",
+        "description": "Site de restauration",
+        "image": "/src/assets/images/projet8.png",
+        "link": "https://flowxt.github.io/Le-resto/",
+        "technologies": ["HTML", "SCSS", "JS"],
+        "github": "https://github.com/flowxt/Le-resto"
+      },
+      {
+        "id": 9,
+        "title": "Country App",
+        "description": "Tous les pays du monde",
+        "image": "/src/assets/images/projet9.png",
+        "link": "https://flowxt.github.io/Country_App/",
+        "technologies": ["HTML", "SCSS", "JS"],
+        "github": "https://github.com/flowxt/Country_App"
       }
     ]
   }
